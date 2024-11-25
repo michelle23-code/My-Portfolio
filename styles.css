@@ -175,6 +175,7 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  
 }
 
 .section__text__p2 {
@@ -182,9 +183,21 @@ section {
   margin-bottom: 1rem;
 }
 
+
+.greetings{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
+  color: gray;
+  margin-left: 10px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 #socials-container {
